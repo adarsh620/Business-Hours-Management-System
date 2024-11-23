@@ -1,0 +1,8 @@
+com/example/demo/Repository/RegularHourRepo.class
+com/example/demo/Entity/RegularHours.class
+com/example/demo/Service/HoursImplement.class
+com/example/demo/Repository/SpecialHourRepo.class
+com/example/demo/Entity/SpecialHours.class
+com/example/demo/Controller/HoursController.class
+com/example/demo/SupplyHouseApplication.class
+com/example/demo/Service/Hours.class
