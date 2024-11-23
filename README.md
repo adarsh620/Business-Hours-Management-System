@@ -16,7 +16,7 @@ The project consists of two main parts:
 ### Backend (Spring Boot)
 - **API for Regular Hours**: Provides CRUD operations for managing the regular hours of a business.
 - **API for Special Hours**: Allows users to add special hours, which override the regular hours for certain days.
-- **Data Persistence**: The backend uses an in-memory database (H2) for storing hours data.
+- **Data Persistence**: The backend uses **MySQL** for storing hours data, providing persistent storage for regular and special hours
 
 ### Frontend (React)
 - **Displaying Regular Hours**: Fetches and displays regular hours from the backend.
